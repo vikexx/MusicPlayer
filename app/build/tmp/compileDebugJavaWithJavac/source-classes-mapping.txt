@@ -1,0 +1,18 @@
+com/example/musicplayer/PlayerActivity.java
+ com.example.musicplayer.PlayerActivity
+ com.example.musicplayer.PlayerActivity$1
+ com.example.musicplayer.PlayerActivity$2
+ com.example.musicplayer.PlayerActivity$3
+ com.example.musicplayer.PlayerActivity$4
+ com.example.musicplayer.PlayerActivity$5
+ com.example.musicplayer.PlayerActivity$6
+ com.example.musicplayer.PlayerActivity$7
+ com.example.musicplayer.PlayerActivity$8
+ com.example.musicplayer.PlayerActivity$9
+com/example/musicplayer/BuildConfig.java
+ com.example.musicplayer.BuildConfig
+com/example/musicplayer/MainActivity.java
+ com.example.musicplayer.MainActivity
+ com.example.musicplayer.MainActivity$1
+ com.example.musicplayer.MainActivity$2
+ com.example.musicplayer.MainActivity$customAdapter
