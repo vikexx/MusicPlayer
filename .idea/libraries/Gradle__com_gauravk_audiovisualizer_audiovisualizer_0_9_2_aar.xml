@@ -4,15 +4,15 @@
       <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ba219360f80bbeb452c37c062e217454/jetified-audiovisualizer-0.9.2/jars/classes.jar!/" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ba219360f80bbeb452c37c062e217454/jetified-audiovisualizer-0.9.2/res" />
       <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ba219360f80bbeb452c37c062e217454/jetified-audiovisualizer-0.9.2/AndroidManifest.xml" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa55d2bc5a6440f0f8dfdea6c2992e90/jetified-audiovisualizer-0.9.2/AndroidManifest.xml" />
-      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa55d2bc5a6440f0f8dfdea6c2992e90/jetified-audiovisualizer-0.9.2/jars/classes.jar!/" />
-      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/aa55d2bc5a6440f0f8dfdea6c2992e90/jetified-audiovisualizer-0.9.2/res" />
+      <root url="file://$USER_HOME$/Desktop/b/Musicplayer/.gradle/caches/transforms-2/files-2.1/056c10f5ccc3e9dc1a5859999be01387/jetified-audiovisualizer-0.9.2/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Desktop/b/Musicplayer/.gradle/caches/transforms-2/files-2.1/056c10f5ccc3e9dc1a5859999be01387/jetified-audiovisualizer-0.9.2/res" />
+      <root url="jar://$USER_HOME$/Desktop/b/Musicplayer/.gradle/caches/transforms-2/files-2.1/056c10f5ccc3e9dc1a5859999be01387/jetified-audiovisualizer-0.9.2/jars/classes.jar!/" />
     </CLASSES>
     <JAVADOC>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gauravk.audiovisualizer/audiovisualizer/0.9.2/d208e74aadfa145e779e9427ed2fb1c7c0e9a347/audiovisualizer-0.9.2-javadoc.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/b/Musicplayer/.gradle/caches/modules-2/files-2.1/com.gauravk.audiovisualizer/audiovisualizer/0.9.2/d208e74aadfa145e779e9427ed2fb1c7c0e9a347/audiovisualizer-0.9.2-javadoc.jar!/" />
     </JAVADOC>
     <SOURCES>
-      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.gauravk.audiovisualizer/audiovisualizer/0.9.2/1c529e3fc652256afc7a94acfa844cc8f79ca4e7/audiovisualizer-0.9.2-sources.jar!/" />
+      <root url="jar://$USER_HOME$/Desktop/b/Musicplayer/.gradle/caches/modules-2/files-2.1/com.gauravk.audiovisualizer/audiovisualizer/0.9.2/1c529e3fc652256afc7a94acfa844cc8f79ca4e7/audiovisualizer-0.9.2-sources.jar!/" />
     </SOURCES>
   </library>
 </component>
